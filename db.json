@@ -1,0 +1,244 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "type": "fruit",
+      "name": "Apple",
+      "price_ksh": 100,
+      "image": "https://example.com/images/apple.jpg",
+      "description": "A crisp, sweet fruit commonly red or green in color. Rich in fiber and vitamin C."
+    },
+    {
+      "id": 2,
+      "type": "fruit",
+      "name": "Banana",
+      "price_ksh": 50,
+      "image": "https://example.com/images/banana.jpg",
+      "description": "A soft, sweet fruit with yellow skin. A great source of potassium and energy."
+    },
+    {
+      "id": 3,
+      "type": "fruit",
+      "name": "Mango",
+      "price_ksh": 150,
+      "image": "https://example.com/images/mango.jpg",
+      "description": "A sweet tropical fruit with juicy flesh, rich in vitamins A and C."
+    },
+    {
+      "id": 4,
+      "type": "fruit",
+      "name": "Pineapple",
+      "price_ksh": 120,
+      "image": "https://example.com/images/pineapple.jpg",
+      "description": "A tropical fruit with a sweet and tangy flavor, packed with vitamin C and digestive enzymes."
+    },
+    {
+      "id": 5,
+      "type": "fruit",
+      "name": "Orange",
+      "price_ksh": 80,
+      "image": "https://example.com/images/orange.jpg",
+      "description": "A citrus fruit known for its refreshing juice and high vitamin C content."
+    },
+    {
+      "id": 6,
+      "type": "fruit",
+      "name": "Pear",
+      "price_ksh": 120,
+      "image": "https://example.com/images/pear.jpg",
+      "description": "A juicy, sweet fruit with a slightly grainy texture, high in fiber and antioxidants."
+    },
+    {
+      "id": 7,
+      "type": "fruit",
+      "name": "Grapes",
+      "price_ksh": 180,
+      "image": "https://example.com/images/grapes.jpg",
+      "description": "Small, sweet, and juicy berries that come in clusters, packed with antioxidants."
+    },
+    {
+      "id": 8,
+      "type": "fruit",
+      "name": "Avocado",
+      "price_ksh": 200,
+      "image": "https://example.com/images/avocado.jpg",
+      "description": "A creamy and nutritious fruit rich in healthy fats, perfect for salads and spreads."
+    },
+    {
+      "id": 9,
+      "type": "fruit",
+      "name": "Strawberry",
+      "price_ksh": 150,
+      "image": "https://example.com/images/strawberry.jpg",
+      "description": "A sweet, red, and juicy berry, rich in vitamin C and antioxidants."
+    },
+    {
+      "id": 10,
+      "type": "fruit",
+      "name": "Watermelon",
+      "price_ksh": 250,
+      "image": "https://example.com/images/watermelon.jpg",
+      "description": "A large, refreshing fruit with a high water content, perfect for hot days."
+    },
+    {
+      "id": 11,
+      "type": "vegetable",
+      "name": "Carrot",
+      "price_ksh": 30,
+      "image": "https://example.com/images/carrot.jpg",
+      "description": "A crunchy, orange vegetable packed with vitamin A, great for vision and skin health."
+    },
+    {
+      "id": 12,
+      "type": "vegetable",
+      "name": "Spinach",
+      "price_ksh": 40,
+      "image": "https://example.com/images/spinach.jpg",
+      "description": "A leafy green vegetable rich in iron, vitamins, and minerals, great for overall health."
+    },
+    {
+      "id": 13,
+      "type": "vegetable",
+      "name": "Tomato",
+      "price_ksh": 40,
+      "image": "https://example.com/images/tomato.jpg",
+      "description": "A juicy, red fruit used in many dishes. Rich in antioxidants and vitamin C."
+    },
+    {
+      "id": 14,
+      "type": "vegetable",
+      "name": "Cucumber",
+      "price_ksh": 35,
+      "image": "https://example.com/images/cucumber.jpg",
+      "description": "A cool, crunchy vegetable, often eaten raw, great for hydration and digestive health."
+    },
+    {
+      "id": 15,
+      "type": "vegetable",
+      "name": "Potato",
+      "price_ksh": 50,
+      "image": "https://example.com/images/potato.jpg",
+      "description": "A starchy root vegetable, versatile in cooking and rich in carbohydrates."
+    },
+    {
+      "id": 16,
+      "type": "vegetable",
+      "name": "Onion",
+      "price_ksh": 20,
+      "image": "https://example.com/images/onion.jpg",
+      "description": "A pungent vegetable used in many dishes to enhance flavor, with numerous health benefits."
+    },
+    {
+      "id": 17,
+      "type": "vegetable",
+      "name": "Lettuce",
+      "price_ksh": 40,
+      "image": "https://example.com/images/lettuce.jpg",
+      "description": "A leafy green vegetable commonly used in salads, low in calories and high in water content."
+    },
+    {
+      "id": 18,
+      "type": "vegetable",
+      "name": "Broccoli",
+      "price_ksh": 80,
+      "image": "https://example.com/images/broccoli.jpg",
+      "description": "A green vegetable with a tree-like structure, rich in vitamins K and C."
+    },
+    {
+      "id": 19,
+      "type": "vegetable",
+      "name": "Cauliflower",
+      "price_ksh": 70,
+      "image": "https://example.com/images/cauliflower.jpg",
+      "description": "A white, cruciferous vegetable that is low in calories and high in fiber and antioxidants."
+    },
+    {
+      "id": 20,
+      "type": "vegetable",
+      "name": "Zucchini",
+      "price_ksh": 60,
+      "image": "https://example.com/images/zucchini.jpg",
+      "description": "A mild-flavored vegetable that can be grilled or eaten raw, rich in vitamins A and C."
+    },
+    {
+      "id": 21,
+      "type": "meat",
+      "name": "Chicken Breast",
+      "price_ksh": 350,
+      "image": "https://example.com/images/chicken_breast.jpg",
+      "description": "Lean and tender meat, rich in protein, perfect for grilling, frying, or baking."
+    },
+    {
+      "id": 22,
+      "type": "meat",
+      "name": "Beef Steak",
+      "price_ksh": 600,
+      "image": "https://example.com/images/beef_steak.jpg",
+      "description": "A flavorful cut of meat, packed with protein, ideal for grilling or pan-searing."
+    },
+    {
+      "id": 23,
+      "type": "meat",
+      "name": "Pork Chops",
+      "price_ksh": 500,
+      "image": "https://example.com/images/pork_chops.jpg",
+      "description": "Tender cuts of pork, ideal for grilling or roasting. High in protein and flavor."
+    },
+    {
+      "id": 24,
+      "type": "meat",
+      "name": "Lamb Shank",
+      "price_ksh": 700,
+      "image": "https://example.com/images/lamb_shank.jpg",
+      "description": "A rich, tender cut of meat, perfect for slow-cooking and packed with flavor."
+    },
+    {
+      "id": 25,
+      "type": "meat",
+      "name": "Turkey Breast",
+      "price_ksh": 450,
+      "image": "https://example.com/images/turkey_breast.jpg",
+      "description": "A lean, white meat that's perfect for roasting or grilling, rich in protein."
+    },
+    {
+      "id": 26,
+      "type": "meat",
+      "name": "Fish Fillet",
+      "price_ksh": 300,
+      "image": "https://example.com/images/fish_fillet.jpg",
+      "description": "A versatile and healthy meat, high in omega-3 fatty acids and protein."
+    },
+    {
+      "id": 27,
+      "type": "meat",
+      "name": "Beef Mince",
+      "price_ksh": 550,
+      "image": "https://example.com/images/beef_minced.jpg",
+      "description": "Ground beef, perfect for making burgers, meatballs, or spaghetti bolognese."
+    },
+    {
+      "id": 28,
+      "type": "meat",
+      "name": "Chicken Thighs",
+      "price_ksh": 320,
+      "image": "https://example.com/images/chicken_thighs.jpg",
+      "description": "A flavorful cut of chicken, ideal for roasting, frying, or grilling."
+    },
+    {
+      "id": 29,
+      "type": "meat",
+      "name": "Sausages",
+      "price_ksh": 200,
+      "image": "https://example.com/images/sausages.jpg",
+      "description": "Pork or beef sausages, perfect for grilling or adding to stews and casseroles."
+    },
+    {
+      "id": 30,
+      "type": "meat",
+      "name": "Goat Meat",
+      "price_ksh": 800,
+      "image": "https://example.com/images/goat_meat.jpg",
+      "description": "A flavorful and lean meat, commonly used in stews and traditional dishes."
+    }
+  ]
+}
